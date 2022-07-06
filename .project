@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>spring-external-configuration</name>
-	<comment>Project template-springboot created by Buildship.</comment>
+	<name>spring-configuration-client</name>
+	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>

@@ -1,5 +1,5 @@
-# template-springboot
-Sample Gradle Spring Boot Rest API with Junit 5. 
+# spring-external-configuration
+Spring Cloud Config provides server-side and client-side support for externalized configuration in a distributed system, more details at [spring-cloud-config](https://cloud.spring.io/spring-cloud-config/reference/html/).
 
 ### Spring Reference
 - [Spring Getting Started Guides](https://spring.io/guides#getting-started-guides)
