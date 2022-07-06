@@ -1,4 +1,5 @@
-# spring-external-configuration
+# Spring-Configuration-Client
+
 Spring Cloud Config provides server-side and client-side support for externalized configuration in a distributed system, more details at [spring-cloud-config](https://cloud.spring.io/spring-cloud-config/reference/html/).
 
 ### Spring Reference
